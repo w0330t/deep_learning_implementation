@@ -13,3 +13,4 @@ wheels/
 *.png
 dataset/ptb.train.npy
 dataset/ptb.vocab.pkl
+.codex
