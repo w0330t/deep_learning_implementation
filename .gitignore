@@ -14,3 +14,4 @@ wheels/
 dataset/ptb.train.npy
 dataset/ptb.vocab.pkl
 .codex
+deeplearning2/*
