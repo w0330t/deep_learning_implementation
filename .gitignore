@@ -15,3 +15,5 @@ dataset/ptb.train.npy
 dataset/ptb.vocab.pkl
 .codex
 deeplearning2/*
+dataset/ptb.test.npy
+dataset/ptb.valid.npy
