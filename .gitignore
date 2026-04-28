@@ -17,3 +17,4 @@ dataset/ptb.vocab.pkl
 deeplearning2/*
 dataset/ptb.test.npy
 dataset/ptb.valid.npy
+rnn/checkpoints/better_gru_rnnlm_best.pt
