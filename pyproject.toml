@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "gensim>=4.4.0",
     "ipytest>=0.14.2",
     "jupyter>=1.1.1",
     "matplotlib>=3.10.8",
